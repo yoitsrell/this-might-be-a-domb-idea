@@ -2,7 +2,7 @@
 
 Your task (whether you choose to accept it or not?) is to manipulate the DOM in the following ways:
 
-* Change the font color of the paragraph to lightblue.
+* Change the font color of the paragraph to light blue.
 * Change the font size of the heading to 10 pixels.
 * Change the text of the paragraph to be the following Hipster Ipsum:
 
@@ -13,7 +13,7 @@ Your task (whether you choose to accept it or not?) is to manipulate the DOM in 
 > I say, "Hi!"
 * Change the image below the list to be [this image](http://www.tioxic.com/wp-content/uploads/trex_4.jpg).
 * Change that image's size to be 300 pixels high.
-* Add a new image below that to an online image of your choice, and make it 300 pixels high.
-* Add a 16th `<li>` to the list, with the same class as the others, and with an id and that follows the others' numbering scheme.
+* Add a new image below that to an image of your choice, and make it 300 pixels high.
+* Add a 16th `<li>` to the list, with the same class as the others, and with an id that follows the others' numbering scheme.
 * Give that `<li>` the following text:
 > I won't be fooled again.
