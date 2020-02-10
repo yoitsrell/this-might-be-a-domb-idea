@@ -12,9 +12,11 @@ half.style.opacity = '50%'
 const third = document.querySelector("#item-3");
 third.innerText = 'I say, "Hi!"'
 
-const image1 = document.querySelector("#image");
-document.getElementsById("#image").src = 'http://www.tioxic.com/wp-content/uploads/trex_4.jpg'
+const image1 = document.querySelector('img');
+image.src = ('http://www.tioxic.com/wp-content/uploads/trex_4.jpg')
+image1.style.height = '300px'
 
+//const newImage = document
 const newLi = document.createElement('li');
 newLi.innerText = "Won't be fooled again"
 
